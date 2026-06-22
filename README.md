@@ -115,7 +115,9 @@ Brazil
 
 ---
 
-https://komarev.com/ghpvc/?username=dhfullstack&color=blueviolet&style=for-the-badge
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=dhfullstack&color=blueviolet&style=for-the-badge" alt="Profile Views" />
+</p>
 
 ---
 

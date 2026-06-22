@@ -86,10 +86,10 @@ Brazil
 
 ---
 
-## 🏆 Achievements
+## 🏆 GitHub Badges
 
 <p align="center">
-  <img src="https://github-profile-trophy-mirror.vercel.app/?username=dhfullstack&theme=tokyonight&no-frame=true&row=1&column=6" />
+  <img src="https://github-readme-stats.vercel.am/api/badges?username=dhfullstack&theme=tokyonight" alt="GitHub Badges" />
 </p>
 
 ---

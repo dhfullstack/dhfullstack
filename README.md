@@ -115,12 +115,6 @@ Brazil
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=dhfullstack&color=blueviolet&style=for-the-badge" alt="Profile Views" />
-</p>
-
----
-
 ## 🚀 Dev Metrics Dashboard
 
 <p align="center">
@@ -134,3 +128,10 @@ Brazil
 - LinkedIn
 - Portfolio
 - Instagram
+
+---
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=dhfullstack&color=blueviolet&style=for-the-badge" alt="Profile Views" />
+</p>
+
+---

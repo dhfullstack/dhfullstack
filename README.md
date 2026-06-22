@@ -1,7 +1,7 @@
-<h1 align="center">Hey 👋, I'm Dh</h1>
+<h1 align="center">Hi, im Dh</h1>
 
 <p align="center">
-  FullStack Developer from Brazil 🇧🇷
+  FullStack Developer from brazil 🇧🇷
 </p>
 
 ---

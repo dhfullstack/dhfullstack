@@ -42,7 +42,7 @@ Brazil
 
 ### Backend
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,node.js" />
 </p>
 
 ### Frontend

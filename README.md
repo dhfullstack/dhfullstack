@@ -65,7 +65,7 @@ Brazil
 ## 🎵 Spotify Playing
 
 <p align="center">
-  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=s6ty9hobkcyijh0tgtqovg7f7&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false" />
+  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=s6ty9hobkcyijh0tgtqovg7f7&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false&bar_color=af4dfe&bar_color_cover=true" alt="Spotify Playing" />
 </p>
 
 ---

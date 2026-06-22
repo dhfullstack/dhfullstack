@@ -9,20 +9,26 @@
 ## 🚀 About Me
 
 ```bash
-whoami
+┌──(dh㉿github)-[~/profile]
+└─$ whoami
 Dh
 
-role
+┌──(dh㉿github)-[~/profile]
+└─$ role
 FullStack Developer
 
-focus
+┌──(dh㉿github)-[~/profile]
+└─$ focus
+
 - Backend Architecture
 - Automation
 - Information Security
 - High Performance APIs
 
-location
+┌──(dh㉿github)-[~/profile]
+└─$ location
 Brazil
+
 ```
 
 ---

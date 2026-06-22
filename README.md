@@ -27,7 +27,6 @@ Brazil
 
 ---
 
-
 ## 🎵 Spotify Playing
 
 <p align="center">

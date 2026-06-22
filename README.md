@@ -70,6 +70,47 @@ Brazil
 
 ---
 
+## 📊 GitHub Dashboard
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dhfullstack&show_icons=true&theme=tokyonight&hide_border=true" />
+  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhfullstack&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+## 🔥 Streak Stats
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=dhfullstack&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🏆 Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=dhfullstack&theme=tokyonight&no-frame=true&row=1&column=6" />
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+![Snake animation](https://github.com/dhfullstack/dhfullstack/blob/output/github-contribution-grid-snake-dark.svg)
+``
+
+---
+
+## 🚀 Dev Metrics Dashboard
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dhfullstack&theme=tokyonight" />
+</p>
+
+---
+
 ## 🌎 Connect With Me
 
 - LinkedIn

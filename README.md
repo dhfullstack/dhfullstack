@@ -27,21 +27,38 @@ Brazil
 
 ---
 
-## 🛠 Tech Stack
+## ⚡ Tech Stack
 
-### Frontend
-- React
-- Next.js
-- TypeScript
+### Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=js,ts,python,lua" />
+</p>
 
 ### Backend
-- Node.js
-- NestJS
-- Python
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs" />
+</p>
 
-### Database
-- PostgreSQL
-- MongoDB
+### Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind,html,css" />
+</p>
+
+### Databases
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,sqlite" />
+</p>
+
+### DevOps / Cloud
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,azure" />
+</p>
+
+### Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma" />
+</p>
+``
 
 ---
 

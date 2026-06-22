@@ -27,6 +27,15 @@ Brazil
 
 ---
 
+
+## 🎵 Spotify Playing
+
+<p align="center">
+  <img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=s6ty9hobkcyijh0tgtqovg7f7&cover_image=true&theme=novatorem&show_offline=false&background_color=0d1117&interchange=false&bar_color=53b14f&bar_color_cover=false" />
+</p>
+
+---
+
 ## ⚡ Tech Stack
 
 ### Languages
@@ -86,10 +95,28 @@ Brazil
 
 ---
 
+
+## 📈 Contribution Graph
+
+https://github-readme-activity-graph.vercel.app/graph?username=dhfullstack&theme=tokyo-night
+
+---
+
+
+<p align="center">
+  https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=A020F0&center=true&vCenter=true&width=600&lines=FullStack+Developer;Backend+Engineer;Information+Security;Automation+Specialist
+</p>
+
+---
+
 ## 🐍 Contribution Snake
 
 ![Snake animation](https://github.com/dhfullstack/dhfullstack/blob/output/github-contribution-grid-snake-dark.svg)
 ``
+
+---
+
+https://komarev.com/ghpvc/?username=dhfullstack&color=blueviolet&style=for-the-badge
 
 ---
 

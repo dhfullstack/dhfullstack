@@ -94,16 +94,16 @@ Brazil
 
 ---
 
-
 ## 📈 Contribution Graph
 
-https://github-readme-activity-graph.vercel.app/graph?username=dhfullstack&theme=tokyo-night
+<p align="left">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dhfullstack&theme=tokyo-night" alt="Contribution Graph" />
+</p>
 
 ---
 
-
 <p align="center">
-  https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=A020F0&center=true&vCenter=true&width=600&lines=FullStack+Developer;Backend+Engineer;Information+Security;Automation+Specialist
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=A020F0&center=true&vCenter=true&width=600&lines=FullStack+Developer;Backend+Engineer;Information+Security;Automation+Specialist" alt="Typing SVG" />
 </p>
 
 ---

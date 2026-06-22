@@ -86,11 +86,13 @@ Brazil
 
 ---
 
+<!-- 
 ## 🏆 GitHub Badges
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/badges?username=dhfullstack&theme=tokyonight" alt="GitHub Badges" />
 </p>
+-->
 
 ---
 

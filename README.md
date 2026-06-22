@@ -27,14 +27,6 @@ Brazil
 
 ---
 
-## 🎵 Spotify Playing
-
-<p align="center">
-  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=s6ty9hobkcyijh0tgtqovg7f7&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false" />
-</p>
-
----
-
 ## ⚡ Tech Stack
 
 ### Languages
@@ -67,6 +59,14 @@ Brazil
   <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma" />
 </p>
 ``
+
+---
+
+## 🎵 Spotify Playing
+
+<p align="center">
+  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=s6ty9hobkcyijh0tgtqovg7f7&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false" />
+</p>
 
 ---
 

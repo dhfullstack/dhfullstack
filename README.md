@@ -120,7 +120,6 @@ Brazil
 
 ---
 
-<!--
 
 ## 🐍 Contribution Snake
 

@@ -120,7 +120,7 @@ Brazil
 
 ---
 
-
+<!-- 
 ## 🐍 Contribution Snake
 
 ![Snake animation](https://github.com/dhfullstack/dhfullstack/blob/output/github-contribution-grid-snake-dark.svg)

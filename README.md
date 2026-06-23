@@ -150,8 +150,10 @@ Brazil
 ## 🌎 Connect With Me
 
 - LinkedIn
-- Portfolio
-- Instagram
+- [WhatsApp](https://wa.me/11910173595)
+- [Discord](https://discord.com/users/942260610261991424)
+- [Instagram](https://www.instagram.com/dhclutch)
+ <!-- - [Portfolio](https://seu-portfolio.com)-->
 
 ---
 <p align="center">

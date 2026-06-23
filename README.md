@@ -147,11 +147,9 @@ Brazil
 
 ---
 
-## 🌎 Connect With Me
-
 ## 🌍 Connect With Me
 
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/11910173595) [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/942260610261991424) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/dhclutch)
+[![WhatsApp](https://img.shields.io/badge/-25D366?style=social&logo=whatsapp)](https://wa.me/11910173595) [![Discord](https://img.shields.io/badge/-5865F2?style=social&logo=discord)](https://discord.com/users/942260610261991424) [![Instagram](https://img.shields.io/badge/-E4405F?style=social&logo=instagram)](https://www.instagram.com/dhclutch)
  <!-- - [Portfolio](https://seu-portfolio.com)-->
 
 ---

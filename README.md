@@ -19,7 +19,6 @@ Dh
 FullStack Developer
 
 └─$ focus
-
 - Backend Architecture
 - Automation
 - Information Security
